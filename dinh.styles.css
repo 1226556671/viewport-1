@@ -112,6 +112,7 @@ footer .icon{
     @keyframes icon-animation {
         0% { font-variation-settings: "TIME" 1; }
     }
+}
 /* --------------- END USER PREFERS REDUCED MOTION QUERY --------------- */
 
 
@@ -163,8 +164,10 @@ img{
 }
 
 @media screen and (min-width: 320px){
+}
 
 /* ---------- SMALL SCREEN STYLES ---------- */
+
 /* --------------- BEGIN SMALL SCREEN SIZES --------------- */
 
      header, footer {
@@ -195,6 +198,7 @@ img{
     } */
 
 @media screen and (min-width: 480px){
+}
 
 /* --------------- END SMALL SCREEN SIZES --------------- */
 
@@ -230,6 +234,7 @@ img{
     } */
 
     @media screen and (min-width: 768px){
+    }
 /* --------------- END MEDIUM SCREEN SIZES --------------- */
 
 
@@ -271,6 +276,7 @@ img{
     } */
 
 @media screen and (min-width: 1025px){
+}
 /* --------------- END LARGE SCREEN SIZES --------------- */
 
 
@@ -374,4 +380,5 @@ img{
         padding-top: 2em;
     } 
 @media screen and (min-width: 1201px){
+}
 /* --------------- END EXTRA LARGE SCREEN SIZES --------------- */
